@@ -1,4 +1,4 @@
-# Kinematic rupture from slip distribution
+# Kinematic rupture from a slip distribution
 
 **This code compute a kinematic rupture from a slip distribution with low resolution to increase it according to a maximum frequency**
 **In this code we are using the slip distribution of the 2015 Illapel Earthquake inversion by USGS : https://earthquake.usgs.gov/earthquakes/eventpage/us20003k7a/finite-fault**
