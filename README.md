@@ -8,10 +8,7 @@
 
 **Capturing the Epistemic Uncertainty in Subduction Earthquake Rupture Parameters" (paper in review) submitted to BSSA**
 
-**A.M. Buenrostro, F.Cotton, J. Jara, J.G.F. Crempien, R. Jünemann**
-//
-//
-
+**A.M. Buenrostro, F.Cotton, J. Jara, J.G.F. Crempien, R. Jünemann**<br>
 
 
 To use the computed green´s functions used in this study, download here:
