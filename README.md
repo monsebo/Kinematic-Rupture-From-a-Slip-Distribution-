@@ -7,11 +7,14 @@
 **Cite the article in case of using the data or any of the codes within this repository**
 
 
-
 **Capturing the Epistemic Uncertainty in Subduction Earthquake Rupture Parameters" (paper in review) submitted to BSSA**
 
 **A.M. Buenrostro, F.Cotton, J. Jara, J.G.F. Crempien, R. Jünemann**
 
-To use the computed green´s functions used in this study you can downloaded here:
+
+
+To use the computed green´s functions used in this study, download here:
+
 Central Chile at 4 Hz to compute seismograms at 2 Hz: https://u.pcloud.link/publink/show?code=XZumwx5Z32k9uSGwCjkxPJLsqIaYdSIT7mW7 
-CRUST2.0 at 4 Hz to compute seismograms at 2 Hz: 
+
+CRUST2.0 at 4 Hz to compute seismograms at 2 Hz: https://u.pcloud.link/publink/show?code=XZzbwx5Zxw9e3YETIoH8bQr3Exme9hE2SdUk
