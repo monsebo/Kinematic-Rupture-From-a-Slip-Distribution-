@@ -9,7 +9,7 @@
 
 **Capturing the Epistemic Uncertainty in Subduction Earthquake Rupture Parameters" (paper in review) submitted to BSSA.**
 
-**A.M. Buenrostro, F.Cotton, J. Jara, J.G.F. Crempien, R. Jünemann**<br>
+**A.M. Buenrostro, F. Cotton, J. Jara, J.G.F. Crempien, R. Jünemann**<br>
 
 <br>
 <br>
