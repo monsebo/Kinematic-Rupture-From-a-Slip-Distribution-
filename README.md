@@ -15,6 +15,8 @@
 <br>
 
 To use the Green´s functions computed in this study, download here:
+
+
 Central Chile at 2 Hz to compute seismograms at 1 Hz: https://u.pcloud.link/publink/show?code=kZDYOI5ZpFE85vxyfCzyp6sn4plBu8wEqerk
 CRUST2.0 at 2 Hz to compute seismograms at 1 Hz: https://u.pcloud.link/publink/show?code=kZAQOI5Zw1EUWV1oNgLuwsC9aAzHxXeOk570
 
