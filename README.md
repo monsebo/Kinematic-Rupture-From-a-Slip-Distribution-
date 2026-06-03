@@ -18,15 +18,19 @@ To use the Green´s functions computed in this study, download here:
 
 
 Central Chile at 2 Hz to compute seismograms at 1 Hz: https://u.pcloud.link/publink/show?code=kZDYOI5ZpFE85vxyfCzyp6sn4plBu8wEqerk
+
 CRUST2.0 at 2 Hz to compute seismograms at 1 Hz: https://u.pcloud.link/publink/show?code=kZAQOI5Zw1EUWV1oNgLuwsC9aAzHxXeOk570
 
-Central Chile at 4 Hz to compute seismograms at 2 Hz: https://u.pcloud.link/publink/show?code=XZumwx5Z32k9uSGwCjkxPJLsqIaYdSIT7mW7 
-CRUST2.0 at 4 Hz to compute seismograms at 2 Hz: https://u.pcloud.link/publink/show?code=XZzbwx5Zxw9e3YETIoH8bQr3Exme9hE2SdUk
+Central Chile at 4 Hz to compute seismograms at 2 Hz: https://u.pcloud.link/publink/show?code=kZvmOI5ZVud00FSdA0YnluSq3F3LdmFsR1ly
+
+CRUST2.0 at 4 Hz to compute seismograms at 2 Hz: https://u.pcloud.link/publink/show?code=kZomOI5ZMhTDCBHCAyRDwNvMYW1VhfG5b1Uy
 
 Central Chile at 8 Hz to compute seismograms at 4 Hz: https://u.pcloud.link/publink/show?code=kZKYOI5Z3kJaHuJsVsFY2c8fOIiCCfznbtj7 
+
 CRUST2.0 at 8 Hz to compute seismograms at 4 Hz: https://u.pcloud.link/publink/show?code=kZaYOI5ZyiNAaUqbhQJp6uk943zexpt0tSDV
 
 Central Chile at 10 Hz to compute seismograms at 5 Hz: https://u.pcloud.link/publink/show?code=kZ0mOI5ZTIG3LtHLAw4KtkHRcrCyphEjkh2k
+
 CRUST2.0 at 10 Hz to compute seismograms at 5 Hz: https://u.pcloud.link/publink/show?code=kZVmOI5ZhW8hkzwWsbkExehz7FAUuztzRdEy
 
 Central Chile at 20 Hz to compute seismograms at 10 Hz: https://u.pcloud.link/publink/show?code=kZFmOI5ZVdBvOEGppcHnEgR9NmvcLRtbKSFy
